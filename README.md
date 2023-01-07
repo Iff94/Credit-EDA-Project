@@ -1,4 +1,4 @@
-# EDA-Upgrad-assignment-
+# EDA-assignment-
 Credit EDA assignment 
 
 Problem Statement - I
